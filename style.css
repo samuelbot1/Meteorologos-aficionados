@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.headert .titulo{
+    
+    text-align: center;
+    color: red;
+    display: block;
+    font-size: 50px;
+    margin-bottom: 0%;
+}
+.headert h2{
+    text-align: center;
+    color: red;
+    display: block;
+    margin-top: 0%;
+    margin-bottom: 50px;
+}
+.mitad-1 h2{
+font-size: 40px;
+text-align: center;
+}
+.mitad-1 p{
+    font-size: 20px;
+    padding: 30px;
+    margin: 0;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.mitad-1 h1{
+    padding-bottom: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+.mitad-2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+.mitad-2 h2{
+    font-size: 40px;
+    
+}
+.mitad-2 p{
+    font-size: 20px;
+}
+#foto1{
+    padding-right: 50px;
+    padding-left: 30%;
+    text-align: center;
+    box-sizing: content-box;
+}
+.footer{
+    padding: 30px;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    text-align: center;
+    margin-top: 60px;
+
+}
+.footer h2{
+    color: rgba(255, 255, 255, 0.678);
+    font-size: 10px;
+}
+
+#sc1{
+    padding-right: 50px;
+    padding-left: 30%;
+    text-align: center;
+}
+#sc2{
+     padding-right: 50px;
+    padding-left: 30%;
+    text-align: center;
+}
+
+#sc3{
+    padding-right: 50px;
+    padding-left: 4%;
+    text-align: center;
+}
+.parrafoi{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
